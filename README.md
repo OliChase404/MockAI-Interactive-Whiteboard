@@ -7,7 +7,7 @@ The whiteboarding tools are based on TLDraw, YJS is used to capture and sync cha
 YJS + websockets also provide a means to pass data to AI models in real-time, which can then be used to provide feedback and/or suggestions to the users.
 
 ![multi-user whiteboard](https://i.ibb.co/b1Y88x3/800-PXezgif-1-56504a3332.gif)
-Here four clients are connected to the same room and can draw on the whiteboard simultaneously.
+Here, four clients are connected to the same room and can draw on the whiteboard simultaneously.
 
 To run the application, simply navigate to the client/whiteboard directory, install the dependencies with `npm install`, and run the development server with `npm run dev`.
 
