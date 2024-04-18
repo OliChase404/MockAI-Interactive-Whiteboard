@@ -3,10 +3,8 @@ import { Tldraw, track, useEditor } from '@tldraw/tldraw'
 import '@tldraw/tldraw/tldraw.css'
 import { useYjsStore } from './useYjsStore'
 
-const HOST_URL =
-process.env.NODE_ENV === 'development'
-		? 'ws://localhost:1234'
-		: 'wss://demos.yjs.dev'
+const HOST_URL = 'ws://localhost:1234'
+
 
 
 

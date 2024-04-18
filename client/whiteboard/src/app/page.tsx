@@ -11,9 +11,6 @@ function Home() {
       <div style={{ position: 'fixed', inset: 150 }}>
         <WhiteBoard />
       </div>
-      <div>
-        put stuff here
-      </div>
     </main>
   )
 }
